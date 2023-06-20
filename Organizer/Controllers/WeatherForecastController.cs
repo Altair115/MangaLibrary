@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace MangaOrganizer.Controllers;
+namespace Organizer.Controllers;
 
 [ApiController]
 [Route("[controller]")]

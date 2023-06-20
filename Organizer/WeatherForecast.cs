@@ -1,4 +1,4 @@
-namespace MangaOrganizer;
+namespace Organizer;
 
 public class WeatherForecast
 {
